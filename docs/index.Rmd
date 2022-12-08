@@ -1,5 +1,5 @@
 ---
-title: "Web page"
+title: "Welcome page"
 author: "Hoa Ninh"
 output:
   html_document:
@@ -14,4 +14,4 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Welcome to Hoa's webpage!
+Welcome to Hoa'sbpage!
