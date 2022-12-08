@@ -1,0 +1,17 @@
+---
+title: "Web page"
+author: "Hoa Ninh"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: cerulean
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome to Hoa's webpage!
