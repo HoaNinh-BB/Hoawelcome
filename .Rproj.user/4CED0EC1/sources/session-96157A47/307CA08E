@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/Hoawelcome/docs/index.Rmd",
     "project_path": "docs/index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "474468987",
     "contents": "",
     "dirty": false,
     "created": 1670511143000.0,
@@ -18,11 +18,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1670517288,
+    "lastKnownWriteTime": 1670517542,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670517288176,
+    "last_content_update": 1670517542311,
     "read_only": false,
     "read_only_alternatives": []
 }

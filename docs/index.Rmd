@@ -14,4 +14,4 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Welcome to Hoa'sbpage!
+Welcome to Hoa's page!
